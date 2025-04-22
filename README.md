@@ -5,8 +5,6 @@ This Google Tag Manager custom **Tag Template** is used to implement Siteimprove
 - Send custom event data to Siteimprove.
 - Trigger pseudo page view events (virtual page loads) with optional automatic or manual metadata.
 
-> Developed by **Jude** for [DumbData](https://dumbdata.co)
-
 ---
 
 ## 🚀 Features
@@ -85,6 +83,10 @@ If **Manual** is selected, fill out the following:
 
 - **Disable Console Logging**  
   _Enable this to prevent logs from being printed in the browser console._
+
+---
+
+> Developed by **Jude Nwachukwu Onyejekwe** for [DumbData](https://dumbdata.co)
 
 ---
 
