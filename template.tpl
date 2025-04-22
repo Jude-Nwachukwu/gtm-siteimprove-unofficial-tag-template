@@ -234,18 +234,6 @@ ___TEMPLATE_PARAMETERS___
     "subParams": [
       {
         "type": "LABEL",
-        "name": "siDocUserIdentify",
-        "displayName": "\u003cstrong\u003e\u003ca href\u003d\"https://web.developer.smartlook.com/docs/identify-visitor\"\u003e👤 User Identify Documentation Link\u003c/a\u003e\u003c/strong\u003e",
-        "enablingConditions": [
-          {
-            "paramName": "siTagType",
-            "paramValue": "siIdentify",
-            "type": "EQUALS"
-          }
-        ]
-      },
-      {
-        "type": "LABEL",
         "name": "siDocEvent",
         "displayName": "\u003cstrong\u003e\u003ca href\u003d\"https://help.siteimprove.com/support/solutions/articles/80000863895-getting-started-with-event-tracking\"\u003e✅ Event Documentation  Link\u003c/a\u003e\u003c/strong\u003e",
         "enablingConditions": [
@@ -271,7 +259,7 @@ ___TEMPLATE_PARAMETERS___
       {
         "type": "LABEL",
         "name": "siDocInstallSiteimprove",
-        "displayName": "\u003cstrong\u003e\u003ca href\u003d\"hhttps://help.siteimprove.com/support/solutions/articles/80000448448-adding-siteimprove-analytics-javascript-to-your-website\"\u003e🛠️ Siteimprove Implementation Link\u003c/a\u003e\u003c/strong\u003e",
+        "displayName": "\u003cstrong\u003e\u003ca href\u003d\"https://help.siteimprove.com/support/solutions/articles/80000448448-adding-siteimprove-analytics-javascript-to-your-website\"\u003e🛠️ Siteimprove Implementation Link\u003c/a\u003e\u003c/strong\u003e",
         "enablingConditions": [
           {
             "paramName": "siTagType",
