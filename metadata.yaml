@@ -1,6 +1,13 @@
 ---
+
 homepage: https://dumbdata.co/
 documentation: https://github.com/Jude-Nwachukwu/gtm-siteimprove-unofficial-tag-template
 versions:
+
+# LATEST VERSION
+  - sha: 0da034d2df125ac7821cbbca6d8ed7bb59d4461c
+    changeNotes: The template UI now includes a link to the Siteimprove installation documentation.
+
+#INITIAL VERSION
   - sha: a85dc7048aa45bc626fb3d407bd3ba2e64f67cc3
     changeNotes: Initial release.
